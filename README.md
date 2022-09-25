@@ -20,7 +20,7 @@ Markdown normalmente é utilização de caracteres ** <> () [] {}
 texto aplicado ao hiperlink
 
   [ ]                                       ( )
-texto aplicado ao hiperlink [Senai](https://senaiead.senai.br)
+[Senai] (https://senaiead.senai.br) texto aplicado ao hiperlink [Senai](https://senaiead.senai.br)
 
  <link direto>
    < >
